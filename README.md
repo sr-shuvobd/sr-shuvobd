@@ -1,3 +1,5 @@
+![Banner](./cp.jpeg)
+
 ## 👨‍💻 About Me
 
 I am a passionate MERN Stack Developer with a strong foundation in JavaScript technologies such as MongoDB, Express.js, React, and Node.js. I enjoy building modern, scalable, and user-friendly web applications that solve real-world problems.
